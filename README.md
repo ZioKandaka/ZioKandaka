@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ZioKandaka
-- 👀 I’m interested in Web Development and Software Engineering
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web and Game development
+- 👋 Hi, I’m @ZioKandaka, a Fullstack Developer in EBconnection Indonesia
+- 🌱 I’m highly familiar with NodeJS, React, and Typescript
 - 📫 Contact via email on ziokaelani@gmail.com
 
 <!---
